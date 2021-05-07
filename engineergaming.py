@@ -27,7 +27,7 @@ while(True):
         else:
             engineergaming += engineer.lower()
     print(engineergaming)
-    engineergamer = input("Try again? y/n") # sonetimes you just need a little less gun
+    engineergamer = input("     Try again? y/n") # sonetimes you just need a little less gun
     if engineergamer == "n" or engineergamer == "N":
         print("Bye, bye")
         break; # me please
